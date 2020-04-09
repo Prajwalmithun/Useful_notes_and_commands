@@ -24,3 +24,16 @@ make install
 ```
 
 Replace 14.1.1 with the version of your product.
+
+
+# If you get error like this then follow these steps.
+```
+Could not open /dev/vmmon: No such file or directory.
+Please make sure that the kernel module `vmmon' is loaded.
+```
+
+[How to fix ?](https://askubuntu.com/questions/1096052/vmware-15-error-on-ubuntu-18-4-could-not-open-dev-vmmon-no-such-file-or-dire)
+
+# Remove Vmware workstation from system.
+
+[Uninstall](https://kb.vmware.com/s/article/38)
